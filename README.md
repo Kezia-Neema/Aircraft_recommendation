@@ -16,12 +16,11 @@ Project Outline
     - Incident Types: Analyze common causes of incidents and accidents to identify patterns or frequent issues.
 
 3. **Data Visualization and Insights**
-    - Interactive Dashboard: Create an interactive dashboard using a tool like Plotly Dash or Power BI, allowing users to explore accident data by aircraft model, year, manufacturer, and other filters.
+    - Interactive Dashboard
     - Visualizations:
-        - Bar charts showing accident frequency by aircraft model and manufacturer.
+        - Bar charts showing incident frequency by Engine type
         - Line graphs depicting trends in accident rates over time.
-        - Heatmaps or bubble charts illustrating the severity and types of incidents.
-4. Business Recommendations
+4. **Business Recommendations**
     - Based on the analysis, we will formulate three concrete business recommendations for the head of the new aviation division
 
 
@@ -41,3 +40,11 @@ We are working with data from [Kaggle](https://www.kaggle.com/datasets/khsamaha/
 
 The data is contained in a csv file:
 - AviationData.csv: Each record represents an accident with details about the accident
+
+# Final-Recommendation
+From our analysis we concluded to two Aircrafts 
+
+|| **Make** | **Model** |
+|--|----------|-----------|
+|1. | Rockwell | NA-265-80 |
+|2. | Boeing | B737-2H4 |
